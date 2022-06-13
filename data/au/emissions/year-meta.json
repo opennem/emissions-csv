@@ -1,5 +1,6 @@
 {
   "id": "year",
+  "path": "/data/au-2021-emissions-projections-fig-7.csv",
   "source": {
     "label": "Australia's emissions projections 2021 (fig. 7)",
     "url": "https://www.industry.gov.au/data-and-publications/australias-emissions-projections-2021"
