@@ -1,8 +1,8 @@
 {
   "id": "year",
-  "path": "/data/au-2021-emissions-projections-fig-7.csv",
+  "path": "/data/au-2022-emissions-projections-fig-2.csv",
   "source": {
-    "label": "Australia's emissions projections 2021 (fig. 7)",
-    "url": "https://www.industry.gov.au/data-and-publications/australias-emissions-projections-2021"
+    "label": "Australia's emissions projections 2022 (fig. 2)",
+    "url": "https://www.dcceew.gov.au/climate-change/emissions-reporting/projecting-emissions"
   }
 }
