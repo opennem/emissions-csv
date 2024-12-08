@@ -2,6 +2,7 @@
   "id": "year",
   "path": "/data/au-2024-emissions-projections-fig-5.csv",
   "projectionStartYear": 2025,
+  "prefix": "t",
   "source": {
     "label": "Australia's emissions projections 2024 (fig. 5)",
     "url": "https://www.dcceew.gov.au/climate-change/emissions-reporting/projecting-emissions"
